@@ -7,6 +7,3 @@
 
 ### 👑 Seeking wisdom all the time
 Always looking for code quality, new architectures and design patterns!
-
-### 🏃‍♂️ Goals for 2020
-- Launch a real product using [Typescript](https://www.typescriptlang.org/)
